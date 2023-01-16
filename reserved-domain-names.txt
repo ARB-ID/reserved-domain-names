@@ -518,6 +518,7 @@ ruffionreborn
 sablier
 saddle
 saddlefinance
+safe
 safepal
 safepalwallet
 sandbox
