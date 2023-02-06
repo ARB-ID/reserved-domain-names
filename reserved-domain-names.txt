@@ -76,6 +76,7 @@ blockpi
 blockpour
 blockvision
 blockwallet
+bnb
 bond
 bondprotocol
 boredape
@@ -169,6 +170,7 @@ cyberconnect
 dai
 damnedpiratesociety
 daohaus
+data
 datahub
 dc8
 dcent
@@ -225,6 +227,7 @@ encentive
 enjin
 ens
 eros
+eth
 ethereum
 ethereumnameservice
 etherscan
@@ -576,6 +579,7 @@ talesofelleria
 tallyho
 telcoin
 tenderly
+test
 tether
 thales
 thebeacon
