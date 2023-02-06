@@ -575,6 +575,7 @@ synapse
 synapseprotocol
 synfutures
 tableland
+talentale
 talesofelleria
 tallyho
 telcoin
