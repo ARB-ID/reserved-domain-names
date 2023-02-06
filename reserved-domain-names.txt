@@ -462,6 +462,7 @@ polkadot
 poly
 polymath
 polynetwork
+pooltogether
 powerledger
 predy
 predyfinance
@@ -480,6 +481,8 @@ rabby
 rabbywallet
 radiant
 radiantcapital
+rage
+ragetrade
 raiden
 rainbow
 rakon
@@ -514,6 +517,7 @@ rise
 risedle
 risk
 riskharbor
+rocketmonsters
 rocketpool
 rouge
 rougenetwork
