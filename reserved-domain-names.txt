@@ -339,6 +339,7 @@ laika
 layer2
 layer2dao
 layer3
+lava
 legendoferos
 lemonade
 lido
@@ -406,6 +407,7 @@ nftperp
 nftscan
 nitro
 nodereal
+notifi
 nova
 nownodes
 nucypher
@@ -489,6 +491,7 @@ rari
 raricapital
 rcp
 rcpswap
+readon
 readyplayerdao
 realm
 reddit
@@ -561,6 +564,7 @@ storj
 stratos
 strips
 stripsfinance
+subsquid
 superfluid
 sushi
 sushiswap
