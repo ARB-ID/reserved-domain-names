@@ -49,8 +49,6 @@ axieinfinity
 azuki
 babylons
 babylonsnft
-babylonsnftmarketplace
-babylonsnftplatform
 badger
 bakc
 balancer
@@ -67,7 +65,6 @@ beanz
 beefy
 beefyfinance
 biconomy
-biconomyhyphen
 binance
 bitget
 bitkeep
@@ -90,11 +87,11 @@ bridgewallet
 bridgeworld
 brinc
 brincfinance
+bubblemaps
 buffer
 bufferfinance
 bulletlabs
 bundlr
-bundlrnetwork
 bungee
 bybit
 camelot
@@ -229,10 +226,10 @@ ens
 eros
 eth
 ethereum
-ethereumnameservice
 etherscan
 etherspot
 everipedia
+eywa
 farmland
 felten
 fluidfi
@@ -251,6 +248,8 @@ functionx
 funtoken
 furucombo
 futureswap
+gains
+gainsnetwork
 gal
 gala
 galxe
@@ -271,7 +270,6 @@ go
 goerli
 goldfeder
 golem
-googlecloud
 gopocket
 gosecurity
 governmenttoucans
@@ -317,6 +315,7 @@ izumifinance
 jones
 jonesdao
 juno
+justbet
 kalodner
 kanpaipandas
 keep
@@ -354,6 +353,7 @@ lootex
 lostdonkeys
 lostsamurise
 love
+lyra
 magic
 magna
 marlin
@@ -397,6 +397,7 @@ mvl
 mxc
 mycelium
 myetherwallet
+myso
 nabox
 nansen
 nansenportfolio
@@ -416,6 +417,7 @@ numoen
 nxm
 o3swap
 o3wallet
+obvious
 oceanprotocol
 odos
 offchain
@@ -469,7 +471,6 @@ predyfinance
 premia
 prepo
 primapes
-projectgalaxy
 prom
 prylabs
 prysmatic
@@ -492,6 +493,7 @@ randomwalk
 rango
 rari
 raricapital
+resolver
 rcp
 rcpswap
 readon
@@ -508,6 +510,7 @@ reputationdao
 request
 revain
 revert
+revest
 rhino
 rhinofi
 ribbon
@@ -557,6 +560,7 @@ space
 spaceid
 spaceriders
 sperax
+spheron
 stake
 stakedao
 stargate
@@ -575,6 +579,7 @@ sushiswap
 swapfish
 swapfishfinance
 swapr
+swapsicle
 swing
 swipelux
 swissborg
@@ -645,6 +650,7 @@ varenx
 vendor
 vendorfinance
 veritaseum
+vertex
 vesta
 vestafinance
 volmex
@@ -655,7 +661,6 @@ voyager
 vulcanforged
 vvsfinance
 wall
-wallet
 walletconnect
 wardenswap
 waterfall
@@ -690,6 +695,7 @@ zerocode
 zerocodenft
 zeroswap
 zigzag
+zomma
 000
 0xsplits
 4everland
