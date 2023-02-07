@@ -113,7 +113,6 @@ chainlink
 chainstack
 channels
 channelsfinance
-charles
 charmverse
 chimpers
 city
@@ -665,7 +664,6 @@ walletconnect
 wardenswap
 waterfall
 waterfallfinance
-wayn
 wbtc
 web3auth
 wepiggy
