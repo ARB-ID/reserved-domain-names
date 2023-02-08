@@ -135,6 +135,7 @@ composablefinance
 compound
 connext
 consensys
+contango
 convex
 cookbook
 coolcats
@@ -254,6 +255,7 @@ gala
 galxe
 game
 game7
+gammaswap
 gate
 gateio
 gelato
@@ -438,6 +440,7 @@ openblock
 openblox
 openocean
 opensea
+orbital
 oreoswap
 origintrail
 otherdeed
@@ -474,6 +477,7 @@ prom
 prylabs
 prysmatic
 prysmaticlabs
+psi
 pudgypenguins
 quant
 quicknode
@@ -567,6 +571,7 @@ status
 stepn
 steven
 stevengoldfeder
+stfx
 storj
 stratos
 strips
