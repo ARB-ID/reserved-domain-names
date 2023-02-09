@@ -235,7 +235,7 @@ dzap
 edfelten  
 edward  
 edwardfelten  
-elf
+elf  
 eliasa  
 elk  
 elkfinance  
@@ -607,8 +607,8 @@ smol
 smolbodies  
 smolbrains  
 smolpad  
-smolverse
-smolville
+smolverse  
+smolville  
 snapshot  
 socket  
 space  
