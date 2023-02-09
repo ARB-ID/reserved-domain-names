@@ -76,6 +76,7 @@ battleforgoblintown
 bayc  
 beacon  
 beanz  
+bearsnake  
 beefy  
 beefyfinance  
 bharatvishnubhotla  
@@ -182,6 +183,7 @@ cyberconnect
 dai  
 damnedpiratesociety  
 daohaus  
+darkbright  
 data  
 datahub  
 davidb  
@@ -223,6 +225,7 @@ dodo
 dolomite  
 doodles  
 dopex  
+dotta  
 double  
 doubleprotocol  
 droeats  
@@ -232,6 +235,7 @@ dzap
 edfelten  
 edward  
 edwardfelten  
+elf
 eliasa  
 elk  
 elkfinance  
@@ -264,6 +268,7 @@ foxwallet
 frax  
 froggyfriends  
 frontier  
+frwc  
 fuji  
 fujidao  
 functionx  
@@ -383,6 +388,7 @@ love
 lyra  
 lyrafinance  
 magic  
+magicswap  
 magna  
 marlin  
 marlinprotocol  
@@ -567,6 +573,7 @@ router
 routerprotocol  
 rubic  
 ruffionreborn  
+runiverse  
 sablier  
 saddle  
 saddlefinance  
@@ -595,7 +602,8 @@ smol
 smolbodies  
 smolbrains  
 smolpad  
-smolverse  
+smolverse
+smolville
 snapshot  
 socket  
 space  
