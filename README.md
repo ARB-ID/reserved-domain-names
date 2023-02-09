@@ -280,6 +280,7 @@ gainsnetwork
 gal  
 gala  
 galxe  
+gambit  
 game  
 game7  
 gammaswap  
@@ -292,6 +293,10 @@ getblock
 gmx  
 gmxblueberry  
 gmxblueberryclub  
+gmxlabs  
+gmxmarkets  
+gmxsynths  
+gmxv2  
 gnosis  
 gnosissafe  
 go  
@@ -736,6 +741,7 @@ xdollar
 xeenon  
 xhashtag  
 xtoken  
+xvix  
 xyfinance  
 xyo  
 yearn  
